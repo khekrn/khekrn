@@ -7,7 +7,7 @@
 
 I am a Senior software engineer and I love programming, writing, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things which bring's ideas to life.
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for building things which bring's ideas to life.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khekrn&show_icons=true&theme=dracula&count_private=false) 
 
