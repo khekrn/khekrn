@@ -15,11 +15,12 @@
 - 	**JVM** (Java, Kotlin, Scala, Spring Boot, Quarkus, Micronaut).
 - 	**Go**.
 - 	**Python**.
-- 	**JavaScript** (Vue JS).
+- 	**JavaScript**.
 - 	**SQL** (MySQL, PostgreSQL).
+- 	**Elixir** (Erlang OTP, Phoenix).
 - 	**Typescript**.
 - 	**Cloud Computing**  (AWS).
-- 	**Docker/Kubernetes**.
+- 	**Docker**.
 - 	**HTML/CSS**.
 - 	**NoSQL** (MongoDB, HBase).
 - 	**Redis**.
