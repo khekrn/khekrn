@@ -14,6 +14,7 @@
 # 💬 Ask me about:
 - 	**JVM** (Java, Kotlin, Scala, Spring Boot, Quarkus, Micronaut).
 - 	**Go**.
+- 	**Zig**.
 - 	**Python**.
 - 	**JavaScript**.
 - 	**SQL** (MySQL, PostgreSQL).
