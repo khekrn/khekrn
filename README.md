@@ -57,14 +57,6 @@ style="vertical-align:top; margin: 4px">
 
 
 
-<h3 align="left">Awards and Trophies:</h3>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khekrn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 - 📫 How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/khekrn)](https://github.com/khekrn)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khekrn)](https://www.linkedin.com/in/khekrn)
