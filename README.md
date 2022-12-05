@@ -12,7 +12,7 @@
 
 
 # 💬 Ask me about:
-- 	**JVM** (Java, Kotlin, Spring Boot, Micronaut).
+- 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut).
 - 	**Go**.
 - 	**Zig**.
 - 	**Python**.
