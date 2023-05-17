@@ -13,8 +13,8 @@
 
 # 💬 Ask me about:
 - 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut).
+- 	**Rust**.
 - 	**Go**.
-- 	**Zig**.
 - 	**Python**.
 - 	**JavaScript**.
 - 	**SQL** (MySQL, PostgreSQL).
