@@ -11,20 +11,18 @@
 
 
 # 💬 Ask me about:
-- 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut).
-- 	**Rust**.
-- 	**Go**.
-- 	**Elixir**.
-- 	**Python**.
-- 	**JavaScript**.
-- 	**SQL** (MySQL, PostgreSQL).
-- 	**Typescript**.
-- 	**Cloud Computing**  (AWS).
-- 	**Docker**.
-- 	**HTML/CSS**.
-- 	**NoSQL** (MongoDB, HBase).
-- 	**Redis**.
-- 	**Git**.
+- 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut)
+- 	**Rust**
+- 	**Go**
+- 	**Elixir**
+- 	**Python**
+- 	**Typescript**
+- 	**SQL** (PostgreSQL)
+- 	**Redis**
+- 	**AWS**
+- 	**Docker**
+- 	**NoSQL** (MongoDB, HBase)
+- 	**Git**
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khekrn&show_icons=true&locale=en" alt="khekrn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khekrn&" alt="khekrn" /></p> -->
