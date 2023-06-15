@@ -14,6 +14,7 @@
 - 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut).
 - 	**Rust**.
 - 	**Go**.
+- 	**Elixir**.
 - 	**Python**.
 - 	**JavaScript**.
 - 	**SQL** (MySQL, PostgreSQL).
