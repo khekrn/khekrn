@@ -5,18 +5,18 @@
    
    
 - 🔭 I’m currently working at Credit Saison India.
-- 🌱 I'm a Senior software engineer who is working on building reliable and scalable financial systems. I enjoy using my obsessive attention to detail, my unequivocal love for building things that bring's ideas to life.
+- 🌱 I'm an Engineering Manager who is working on building reliable and scalable financial systems. I enjoy using my obsessive attention to detail, my unequivocal love for building things that bring's ideas to life.
 - 👯 Currently focusing on building cloud native applications
 
 
 
 # 💬 Ask me about:
-- 	**JVM** (Java, Kotlin, Spring Boot, Quarkus and Micronaut)
-- 	**Rust**
-- 	**Go**
-- 	**Elixir**
+- 	**JVM** (Java, Kotlin, Spring Boot and Micronaut)
+-    **Go**
 - 	**Python**
 - 	**Typescript**
+- 	**Rust**
+- 	**Elixir**
 - 	**SQL** (PostgreSQL)
 - 	**Redis**
 - 	**AWS**
