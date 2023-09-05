@@ -16,7 +16,6 @@
 - 	**Python**
 - 	**Typescript**
 - 	**Rust**
-- 	**Elixir**
 - 	**SQL** (PostgreSQL)
 - 	**Redis**
 - 	**AWS**
