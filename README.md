@@ -11,11 +11,10 @@
 
 
 # 💬 Ask me about:
-- 	**JVM** (Java, Kotlin, Spring Boot and Micronaut)
+- 	**JVM** (Java, Kotlin, Spring Boot)
 -    **Go**
 - 	**Python**
 - 	**Typescript**
-- 	**Rust**
 - 	**SQL** (PostgreSQL)
 - 	**Redis**
 - 	**AWS**
