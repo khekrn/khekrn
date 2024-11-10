@@ -13,6 +13,7 @@
 # 💬 Ask me about:
 - 	**JVM** (Java, Kotlin, Spring Boot)
 -    **Go**
+-    **Zig**
 - 	**Python**
 - 	**Typescript**
 - 	**SQL** (PostgreSQL)
